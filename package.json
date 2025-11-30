@@ -14,6 +14,7 @@
         "lint": "prettier --check ."
     },
     "dependencies": {
+        "@sveltejs/adapter-node": "^5.4.0",
         "axios": "^1.13.2",
         "mariadb": "^3.4.5",
         "sequelize": "^6.37.7"
