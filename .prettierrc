@@ -11,6 +11,12 @@
             "options": {
                 "parser": "svelte"
             }
+        },
+        {
+            "files": "*.yml",
+            "options": {
+                "tabWidth": 2
+            }
         }
     ],
     "tailwindStylesheet": "./src/routes/layout.css"
